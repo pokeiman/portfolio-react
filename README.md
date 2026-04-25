@@ -5,8 +5,8 @@ Hi! I'm Iman. This is the repository for my interactive portfolio, built for my 
 Instead of a standard scrolling website, I wanted to build something fun that shows off my personality and UI/UX skills. I designed a custom interactive "purse" on the landing page! When you click it, all my projects, art, and resume icons pop out using smooth spring animations.
 
 ## 🔗 Links
-- **Live Site:** 
-- **Project Video:** 
+- **Live Site:** https://portfolio-react-mocha-eight.vercel.app/ 
+- **Project Video:** https://youtu.be/Dr5qHYYkF2c
 
 ## 🎨 Cool Features
 - **Fun Animations:** I used Framer Motion to make the icons bounce out of the purse and scale up when you hover over them.
