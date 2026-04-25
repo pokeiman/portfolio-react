@@ -1,16 +1,27 @@
-# React + Vite
+# Iman Attar - Web Design Portfolio ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi! I'm Iman. This is the repository for my interactive portfolio, built for my Digital Media major at UCF. 
 
-Currently, two official plugins are available:
+Instead of a standard scrolling website, I wanted to build something fun that shows off my personality and UI/UX skills. I designed a custom interactive "purse" on the landing page! When you click it, all my projects, art, and resume icons pop out using smooth spring animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔗 Links
+- **Live Site:** 
+- **Project Video:** 
 
-## React Compiler
+## 🎨 Cool Features
+- **Fun Animations:** I used Framer Motion to make the icons bounce out of the purse and scale up when you hover over them.
+- **Single Page App:** Everything loads instantly in custom pop-up modals without ever having to refresh the page.
+- **Form Validation:** The contact form has real-time error checking (so it will catch it if you forget to type a message!).
+- **Custom Design:** Fully styled from scratch using Tailwind CSS, including my own imported fonts (Syne & Outfit).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- React Hook Form
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Running it Locally
+If you want to pull this code down and run it on your own computer:
+1. Clone this repository.
+2. Open your terminal in the project folder and run `npm install` to grab all the dependencies.
+3. Run `npm run dev` to start the local server, and click the localhost link it gives you!
